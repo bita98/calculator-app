@@ -1,0 +1,255 @@
+body {
+    background-color: hsl(185, 41%, 84%);
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+}
+
+.main-box {
+    width: 750px;
+    height: 400px;
+    background-color: white;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 136px;
+    box-shadow: 0px 0px 5px 0px hsl(183, 100%, 15%);
+}
+
+.left-first-lable {
+    position: fixed;
+    margin: 47px 31px;
+    color: hsl(186, 14%, 43%);
+    font-weight: 700;
+}
+
+.left-first-text {
+    position: fixed;
+    margin: 78px 34px;
+    background-color: hsl(189, 41%, 97%);
+    border: none;
+    width: 290px;
+    height: 37px;
+    border-radius: 5px;
+}
+
+.left-first-icon {
+    position: fixed;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 10px;
+}
+
+.left-first-icon-zoro {
+    position: fixed;
+    color: hsl(184, 14%, 56%);
+    font-size: 22px;
+    margin: 74px -578px 10px 10px;
+}
+
+.left-first-icon-dollar {
+    position: fixed;
+    color: hsl(184, 14%, 56%);
+    font-size: 20px;
+    margin: 79px -247px 10px -163px;
+}
+
+.left-second-p {
+    color: hsl(186, 14%, 43%);
+    margin: 167px 31px;
+    position: fixed;
+    font-weight: 700;
+}
+
+.left-second-box1 {
+    position: fixed;
+    width: 90px;
+    height: 40px;
+    background-color: hsl(183, 100%, 15%);
+    border-radius: 5px;
+    margin: 198px 31px;
+    border: none;
+    cursor: pointer;
+    color: hsl(0, 0%, 100%);
+    font-weight: 700;
+    font-size: 17px;
+}
+
+.left-second-box2 {
+    position: fixed;
+    width: 90px;
+    height: 40px;
+    background-color: hsl(183, 100%, 15%);
+    border-radius: 5px;
+    margin: 198px 135px;
+    border: none;
+    cursor: pointer;
+    color: hsl(0, 0%, 100%);
+    font-weight: 700;
+    font-size: 17px;
+}
+
+.left-second-box3 {
+    position: fixed;
+    width: 90px;
+    height: 40px;
+    background-color: hsl(183, 100%, 15%);
+    border-radius: 5px;
+    margin: 198px 239px;
+    border: none;
+    cursor: pointer;
+    color: hsl(0, 0%, 100%);
+    font-weight: 700;
+    font-size: 17px;
+}
+
+.left-second-box4 {
+    position: fixed;
+    width: 90px;
+    height: 40px;
+    background-color: hsl(183, 100%, 15%);
+    border-radius: 5px;
+    margin: 251px 31px;
+    border: none;
+    cursor: pointer;
+    color: hsl(0, 0%, 100%);
+    font-weight: 700;
+    font-size: 17px;
+}
+
+.left-second-box5 {
+    position: fixed;
+    width: 90px;
+    height: 40px;
+    background-color: hsl(183, 100%, 15%);
+    border-radius: 5px;
+    margin: 251px 135px;
+    border: none;
+    cursor: pointer;
+    color: hsl(0, 0%, 100%);
+    font-weight: 700;
+    font-size: 17px;
+}
+
+.left-second-box6 {
+    text-align: center;
+    position: fixed;
+    width: 90px;
+    height: 40px;
+    background-color: hsl(189, 41%, 97%);
+    border-radius: 5px;
+    margin: 251px 239px;
+    border: none;
+    cursor: pointer;
+    color: hsl(184, 14%, 56%);
+    font-weight: 700;
+    font-size: 17px;
+}
+
+
+
+
+.left-second-lable {
+    position: fixed;
+    margin: 319px 31px;
+    color: hsl(186, 14%, 43%);
+    font-weight: 700;
+}
+
+.left-second-text {
+    position: fixed;
+    margin: 342px 34px;
+    background-color: hsl(189, 41%, 97%);
+    border: none;
+    width: 290px;
+    height: 37px;
+    border-radius: 5px;
+}
+
+.left-second-icon {
+    position: fixed;
+    display: flex;
+    justify-content: space-around;
+    margin: 273px 10px;
+}
+
+.left-second-icon-zoro {
+    position: fixed;
+    color: hsl(184, 14%, 56%);
+    font-size: 22px;
+    margin: 74px -578px 10px 10px;
+}
+
+.left-second-icon-person {
+    position: fixed;
+    color: hsl(184, 14%, 56%);
+    font-size: 20px;
+    margin: 79px -247px 10px -163px;
+}
+
+.left-second-p {
+    color: hsl(186, 14%, 43%);
+    margin: 167px 31px;
+    position: fixed;
+    font-weight: 700;
+}
+
+
+
+.right-first-box {
+    position: fixed;
+    background-color: hsl(183, 100%, 15%);
+    width: 350px;
+    height: 350px;
+    border-radius: 15px;
+    margin: 24px 373px;
+}
+
+.right-first-stuf-h3-1 {
+    position: fixed;
+    color: hsl(189, 41%, 97%);
+    margin: 47px 28px;
+}
+
+.right-first-stuf-p-1 {
+    color: hsl(184, 14%, 56%);
+    margin: 57px 28px;
+    font-weight: 700;
+}
+
+.right-first-stuf-h1-1 {
+    color: hsl(172, 67%, 45%);
+    font-size: 40px;
+    margin: -101px 209px;
+}
+
+
+
+
+.right-second-stuf-h3-2 {
+    position: fixed;
+    color: hsl(189, 41%, 97%);
+    margin: 138px 28px;
+}
+
+.right-second-stuf-p-2 {
+    color: hsl(184, 14%, 56%);
+    margin: 148px 28px;
+    font-weight: 700;
+}
+
+.right-second-stuf-h1-2 {
+    color: hsl(172, 67%, 45%);
+    font-size: 40px;
+    margin: -183px 209px;
+}
+
+.right-butt {
+    width: 274px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: hsl(172, 67%, 45%);
+    border: none;
+    margin: 274px 38px;
+    color: hsl(183, 100%, 15%);
+    cursor: pointer;
+}
